@@ -1,0 +1,12 @@
+# Wokwi Libraries - ElectroLink IoT
+# Formato: LibraryName@version  (omitir version = ultima estable)
+# Referencia: https://docs.wokwi.com/guides/libraries
+#
+# NOTA: Adafruit INA219 se incluye siempre. En modo WOKWI_SIMULATION
+# la libreria no se instancia pero debe estar disponible para compilar.
+
+ArduinoJson
+Adafruit SSD1306
+Adafruit GFX Library
+Adafruit BusIO
+Adafruit INA219
